@@ -1,3 +1,13 @@
+Tech Stack:
+Vite (React + TS)
+Material UI
+Redux Toolkit
+Cloudinary (Image Upload)
+Supabase (Backend Simulation)
+Axios
+React Router v6+
+Zod (ვალიდაციისთვის)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
